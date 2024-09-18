@@ -7,6 +7,7 @@
 
 ## KAN
 - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
+- [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 ### Vision KAN
 - [Suitability of KANs for Computer Vision: A preliminary investigation](https://arxiv.org/abs/2406.09087)
 - [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155)
