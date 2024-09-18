@@ -3,7 +3,7 @@
 ## Q Learning
 - [An Elementary Proof that Q-learning Converges Almost Surely](https://arxiv.org/abs/2108.02827)
 - [Convergence of Q-learning: a simple proof](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf)
-
+- [Q-Learning for Markov Decision Processes](https://www.cim.mcgill.ca/~adityam/courses/ecse506/2012-winter/projects/Q-learning.pdf)
 
 ## KAN
 - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
