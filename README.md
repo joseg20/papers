@@ -1,6 +1,7 @@
 # papers
 
 ## Q Learning
+- [Q-learning first proof](https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
 - [An Elementary Proof that Q-learning Converges Almost Surely](https://arxiv.org/abs/2108.02827)
 - [Convergence of Q-learning: a simple proof](http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf)
 - [Q-Learning for Markov Decision Processes](https://www.cim.mcgill.ca/~adityam/courses/ecse506/2012-winter/projects/Q-learning.pdf)
