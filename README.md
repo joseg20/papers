@@ -9,7 +9,8 @@
 - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 ### Vision KAN
 - [Suitability of KANs for Computer Vision: A preliminary investigation](https://arxiv.org/abs/2406.09087)
-- [Convolutional Kolmogorov-Arnold Networks]
+- [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155)
+- [Kolmogorov-Arnold Network for Satellite Image Classification in Remote Sensing](https://arxiv.org/abs/2406.00600)
 
 ## Continual Learning
 - [COOM: A Game Benchmark for ContinualReinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/d61d9f4fe4357296cb658795fd7999f0-Paper-Datasets_and_Benchmarks.pdf)
