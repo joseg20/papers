@@ -16,10 +16,9 @@
 - [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155)
 - [Kolmogorov-Arnold Network for Satellite Image Classification in Remote Sensing](https://arxiv.org/abs/2406.00600)
 
-## Continual Learning
+## RL/Plasticity/Continual Learning
 - [COOM: A Game Benchmark for ContinualReinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/d61d9f4fe4357296cb658795fd7999f0-Paper-Datasets_and_Benchmarks.pdf)
 - [Continual Learning as Computationally Constrained Reinforcement Learning](https://arxiv.org/pdf/2307.04345)
-### Plasticity
 - [Deep Reinforcement Learning with Plasticity Injection](https://arxiv.org/abs/2305.15555)
 - [Understanding Plasticity in Neural Networks](https://proceedings.mlr.press/v202/lyle23b/lyle23b.pdf)
 - [Maintaining Plasticity in Continual Learning via Regenerative Regularization](https://arxiv.org/pdf/2308.11958)
