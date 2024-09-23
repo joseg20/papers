@@ -7,6 +7,7 @@
 - [Q-Learning for Markov Decision Processes](https://www.cim.mcgill.ca/~adityam/courses/ecse506/2012-winter/projects/Q-learning.pdf)
 
 ## KAN
+- [KANvas](https://kanvas.deepverse.tech/#/kan)
 - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
