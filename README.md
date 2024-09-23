@@ -11,6 +11,7 @@
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
+- [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
 ### Vision KAN
 - [Suitability of KANs for Computer Vision: A preliminary investigation](https://arxiv.org/abs/2406.09087)
 - [Convolutional Kolmogorov-Arnold Networks](https://arxiv.org/abs/2406.13155)
