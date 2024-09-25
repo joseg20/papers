@@ -10,6 +10,7 @@
 - [KANvas](https://kanvas.deepverse.tech/#/kan)
 - [Novel Architecture Makes Neural Networks More Understandable](https://www.quantamagazine.org/novel-architecture-makes-neural-networks-more-understandable-20240911/)
 - [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
+- [KAN: Kolmogorov–Arnold Networks: A review](https://vikasdhiman.info/reviews/KAN_a_review.pdf)
 - [KAN 2.0: Kolmogorov-Arnold Networks Meet Science](https://arxiv.org/abs/2408.10205)
 - [KAN or MLP: A Fairer Comparison](https://arxiv.org/abs/2407.16674)
 - [Wav-KAN: Wavelet Kolmogorov-Arnold Networks](https://arxiv.org/abs/2405.12832)
